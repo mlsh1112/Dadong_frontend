@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    font-family:"MapoGoldenPier" ;
+    font-size: 20px;
+    text-align: left;
+    border-top: 1px solid;
+    padding: 10px;
+}

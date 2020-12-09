@@ -1,0 +1,17 @@
+.top{
+    padding: 10px;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: right;
+    justify-content: space-around;
+    font-family: MapoGoldenPier;
+}
+.navibar{
+    list-style-type: none;
+    height: 40px;
+    margin: 0;
+    padding-right: 20px;
+    overflow: hidden;
+    background-color: #CABAA3;
+    text-align: right;
+}
